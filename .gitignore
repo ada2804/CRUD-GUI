@@ -1,0 +1,12 @@
+# Ignore configuration files with credentials
+config.py
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore checkpoint files
+.ipynb_checkpoints
+
+# Ignore CSV exports
+*.csv
