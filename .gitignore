@@ -7,6 +7,3 @@ __pycache__/
 
 # Ignore checkpoint files
 .ipynb_checkpoints
-
-# Ignore CSV exports
-*.csv
