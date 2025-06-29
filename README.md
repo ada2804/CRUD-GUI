@@ -78,7 +78,7 @@ empDept VARCHAR(255) NOT NULL
 
 - Copy `config.example.py` to `config.py`:
 
-cp config.example.py config.py
+`cp config.example.py config.py`
 
 - Edit `config.py` and enter your own MySQL username and password.
 
